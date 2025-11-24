@@ -10,8 +10,6 @@ This project provides:
 -  Graceful shutdown of server and clients
 - Concurrent read/write loops to enable non-blocking message handling via goroutines
 
-------
-
 ##  Usage
 
 ```
